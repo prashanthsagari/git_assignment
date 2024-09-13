@@ -1,1 +1,3 @@
 add file from development branch
+adding new file
+resolved merge conflict
